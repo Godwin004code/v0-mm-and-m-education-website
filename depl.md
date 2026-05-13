@@ -1,0 +1,1 @@
+This guide will help you deploy the MM & M Education Website to GitHub Pages.
