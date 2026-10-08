@@ -25,9 +25,9 @@ function ConsultContactBar() {
             Excellence & Grace in Consulting
           </div>
           <div className="flex gap-6 items-center w-full sm:w-auto justify-center">
-            <a href="tel:+234803726308" className="flex items-center gap-2 hover:opacity-80 transition">
+            <a href="tel:+2348037263086" className="flex items-center gap-2 hover:opacity-80 transition">
               <Phone size={14} />
-              <span>+234 803 726 308</span>
+              <span>+234 803 726 3086</span>
             </a>
             <a href="mailto:hello@chenhesed.com" className="flex items-center gap-2 hover:opacity-80 transition">
               <Mail size={14} />

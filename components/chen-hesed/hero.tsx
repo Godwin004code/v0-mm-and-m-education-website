@@ -82,7 +82,7 @@ export default function ConsultHero() {
           </p>
           <div className="flex flex-wrap gap-4 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
             <button
-              onClick={() => window.open("https://wa.me/234803726308", "_blank")}
+              onClick={() => window.open("https://wa.me/2348037263086", "_blank")}
               className="px-10 py-4 bg-primary hover:bg-primary/90 text-primary-foreground rounded-full font-bold transition-all shadow-xl hover:shadow-primary/20 hover:-translate-y-1"
             >
               Start Your Journey

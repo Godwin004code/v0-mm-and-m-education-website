@@ -65,8 +65,8 @@ export default function ConsultFooter() {
               </li>
               <li className="flex items-start gap-4">
                 <Phone size={20} className="text-primary mt-1" />
-                <a href="tel:+234803726308" className="hover:text-primary transition">
-                  +234 803 726 308
+                <a href="tel:+2348037263086" className="hover:text-primary transition">
+                  +234 803 726 3086
                 </a>
               </li>
               <li className="flex items-start gap-4">
