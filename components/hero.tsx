@@ -77,7 +77,7 @@ export default function Hero() {
           {slide.subtitle}
         </p>
         <button
-          onClick={() => window.open("https://wa.me/234803726308", "_blank")}
+          onClick={() => window.open("https://wa.me/2348037263086", "_blank")}
           className="px-8 py-3 bg-primary hover:bg-primary/90 text-white rounded-full font-semibold transition shadow-lg animate-fade-in-up"
           style={{ animationDelay: "0.4s" }}
         >

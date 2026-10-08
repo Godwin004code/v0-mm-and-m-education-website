@@ -99,7 +99,7 @@ export default function Partners() {
             Ready to start your journey with one of our partner institutions?
           </p>
           <a
-            href="https://wa.me/234803726308"
+            href="https://wa.me/2348037263086"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-10 py-4 bg-gradient-to-r from-[#943634] to-[#7a2a28] text-white rounded-lg font-poppins font-semibold hover:shadow-lg hover:shadow-[#943634]/30 transition-all duration-300 hover:scale-105 active:scale-95"

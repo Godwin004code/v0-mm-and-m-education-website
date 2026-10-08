@@ -19,7 +19,7 @@ export default function ConsultCTA() {
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center">
           <button
-            onClick={() => window.open("https://wa.me/234803726308", "_blank")}
+            onClick={() => window.open("https://wa.me/2348037263086", "_blank")}
             className="px-12 py-5 bg-background text-foreground rounded-full font-bold text-lg hover:shadow-2xl transition-all hover:-translate-y-1"
           >
             Free Strategic Session

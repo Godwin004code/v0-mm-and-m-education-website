@@ -12,7 +12,7 @@ export default function CTA() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <button
-            onClick={() => window.open("https://wa.me/234803726308", "_blank")}
+            onClick={() => window.open("https://wa.me/2348037263086", "_blank")}
             className="px-8 py-3 bg-primary text-white rounded-lg font-semibold hover:bg-opacity-90 transition"
           >
             Book Free Consultation
@@ -24,7 +24,7 @@ export default function CTA() {
 
         <p className="text-white/70 mt-8">
           Questions? Contact us at <span className="font-semibold">hello@mmeducation.com</span> or call{" "}
-          <span className="font-semibold">+1 (555) 123-4567</span>
+          <span className="font-semibold">+234 803 726 3086</span>
         </p>
       </div>
     </section>

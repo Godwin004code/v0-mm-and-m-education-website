@@ -8,10 +8,10 @@ export default function ContactBar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col sm:flex-row justify-center sm:justify-end gap-4 sm:gap-8 text-sm">
           {/* Phone */}
-          <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-primary transition">
+          <a href="tel:+2348037263086" className="flex items-center gap-2 hover:text-primary transition">
             <Phone size={16} />
             <span className="hidden sm:inline font-semibold">Phone:</span>
-            <span>+1 (234) 567-890</span>
+            <span>+234 803 726 3086</span>
           </a>
 
           {/* Email */}
